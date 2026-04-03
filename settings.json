@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ArthurKnight.aternos.me:38185",
+    "ip": "ArthurKnight.aternos.me",
     "port": 38185,
     "version": "",
     "try-creative": false
